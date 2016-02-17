@@ -10,10 +10,10 @@ import (
 func main() {
 	som := new(somtoday.Somtoday)
 	var credentials [4]string
-	credentials[0] = "271488"      //"YOUR USERNAME"
-	credentials[1] = "Thomas16tb@" //"YOUR PASSWORD"
-	credentials[2] = "fiotey"      //"YOUR SCHOOL"
-	credentials[3] = "02KB"        //"YOUR BRIN"
+	credentials[0] = "YOUR USERNAME"      //"YOUR USERNAME"
+	credentials[1] = "YOUR PASSWORD" //"YOUR PASSWORD"
+	credentials[2] = "YOUR SCHOOL"      //"YOUR SCHOOL"
+	credentials[3] = "YOUR BRIN"        //"YOUR BRIN"
 	som.SetCredentials(credentials)
 	err := som.Login()
 
