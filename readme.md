@@ -1,16 +1,19 @@
 SOMToday API
 ============
 
-This is a repository for the SOMToday API. This is intended to be multilangual.
+####This is a repository for the SOMToday API.
+I do my best to keep this up to date, but sadly there are too little hours in a :(
 
-Current supported languages are:
-	- Python
-	- Java (Android)
-	- Go
+___________________________________________________________________________________
 
-Languages I am working on:
-	- Dart
-	- Rust
-	- PHP
+<strong>Currently supported languages are:</strong>
+  * Python
+  * Java (Android)
+  * Go
+
+____________________________________________________________________________________
+
+<strong>Languages I am working on:</strong>
+  * PHP
 
 Happy coding!
