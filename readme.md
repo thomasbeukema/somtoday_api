@@ -2,7 +2,7 @@ SOMToday API
 ============
 
 ####This is a repository for the SOMToday API.
-I do my best to keep this up to date, but sadly there are too little hours in a :(
+I do my best to keep this up to date, but sadly there are too little hours in a day :(
 
 ___________________________________________________________________________________
 
